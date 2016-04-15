@@ -1,6 +1,6 @@
 {
   "name": "object-at",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get object's property according to the path.",
   "main": "index.js",
   "scripts": {
@@ -28,12 +28,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/object-at.git"
+    "url": "git+https://github.com/gearcase/object-at.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/object-at/issues"
+    "url": "https://github.com/gearcase/object-at/issues"
   },
-  "homepage": "https://github.com/bubkoo/object-at#readme",
+  "homepage": "https://github.com/gearcase/object-at#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
