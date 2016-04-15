@@ -42,7 +42,7 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "is-nil": "^1.0.0",
-    "to-path": "^1.0.0"
+    "is-nil": "^1.0.1",
+    "to-path": "^1.0.1"
   }
 }
